@@ -7,14 +7,6 @@
 ## 🔗 라이브 배포 링크
 * **웹 앱 바로가기:** [https://cruelsummerl3.github.io/holiday_memo/](https://cruelsummerl3.github.io/holiday_memo/)
 
----
-
-## 🔑 테스트용 계정 (ID / PW)
-* **ID (이메일):** `test@test.com`
-* **PW (비밀번호):** `1234qwer`
-
----
-
 ## 🛠 사용 API 및 기술 스택
 * **공공데이터 API:** 공공데이터포털 - **한국천문연구원_특일 정보 API** (`SpcdeInfoService / getRestDeInfo`)
 * **백엔드 / 인증:** Firebase Authentication (이메일·비밀번호 로그인), Cloud Firestore (사용자별 메모 실시간 저장 및 삭제)
